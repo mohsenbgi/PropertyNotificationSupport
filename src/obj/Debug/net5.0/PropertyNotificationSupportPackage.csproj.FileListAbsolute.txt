@@ -1,0 +1,12 @@
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/obj/Debug/net5.0/PropertyNotificationSupportPackage.csproj.AssemblyReference.cache
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/obj/Debug/net5.0/PropertyNotificationSupportPackage.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/obj/Debug/net5.0/PropertyNotificationSupportPackage.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/obj/Debug/net5.0/PropertyNotificationSupportPackage.AssemblyInfo.cs
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/obj/Debug/net5.0/PropertyNotificationSupportPackage.csproj.CoreCompileInputs.cache
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/bin/Debug/net5.0/PropertyNotificationSupportPackage.deps.json
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/bin/Debug/net5.0/PropertyNotificationSupportPackage.dll
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/bin/Debug/net5.0/PropertyNotificationSupportPackage.pdb
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/obj/Debug/net5.0/PropertyNotificationSupportPackage.dll
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/obj/Debug/net5.0/ref/PropertyNotificationSupportPackage.dll
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/obj/Debug/net5.0/PropertyNotificationSupportPackage.pdb
+/home/mohsen/Desktop/PropertyNotificationSupportPackage/obj/Debug/net5.0/refint/PropertyNotificationSupportPackage.dll

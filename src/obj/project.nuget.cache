@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KMt07N0j3BbGvK2L9tQGU12Zjp9H5vN7RB6tqYUN4v0IFfSY60/q4AUXRgqAKSjjdQZaEIZKkFpWm5Ey/AVUTQ==",
+  "success": true,
+  "projectFilePath": "/home/mohsen/Desktop/PropertyNotificationSupportPackage/PropertyNotificationSupportPackage.csproj",
+  "expectedPackageFiles": [
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

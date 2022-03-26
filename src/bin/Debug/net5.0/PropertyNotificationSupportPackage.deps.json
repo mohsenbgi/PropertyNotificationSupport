@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PropertyNotificationSupportPackage/2.0.0": {
+        "runtime": {
+          "PropertyNotificationSupportPackage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PropertyNotificationSupportPackage/2.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
